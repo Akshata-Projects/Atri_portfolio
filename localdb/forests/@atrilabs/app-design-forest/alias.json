@@ -1,0 +1,19 @@
+{
+  "BarChart": 1,
+  "PieChart": 1,
+  "Checkbox": 2,
+  "Countdown": 1,
+  "Flex": 172,
+  "TextBox": 221,
+  "Image": 58,
+  "Div": 90,
+  "Step": 3,
+  "Button": 12,
+  "Testimonial": 2,
+  "Overlay": 1,
+  "UnorderedList": 6,
+  "Slider": 2,
+  "Carousel": 6,
+  "Icon": 1,
+  "Accordion": 24
+}
